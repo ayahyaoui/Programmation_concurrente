@@ -1,1 +1,1 @@
-# Programmation_concurrente
+# Programmation concurrente réactive, répartie et réticulaire
